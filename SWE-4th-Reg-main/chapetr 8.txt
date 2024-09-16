@@ -1,0 +1,66 @@
+True/False questions
+
+1.false
+2.true
+3.false
+4.false
+
+Short Here are the answers to your short answer questions:
+
+1. What is XML?
+
+XML (Extensible Markup Language) is a markup language that defines a set 
+of rules for encoding documents in a format that is both human-readable
+ and machine-readable It's used to represent data
+ in a structured organized way Think of it 
+as a way to define your own custom tags for representing data
+ unlike HTML which has predefined tags
+
+2. Advantages of XML
+
+• Flexibility-: You can create your own tags and structure to
+ perfectly represent your data. This makes it versatile for many applications.
+• Platform Independence-: XML documents can be read and processed by any system 
+that has an XML parser regardless of the operating system or programming language.
+• Human-Readable and Machine-Readable: XML is designed to be easily 
+understood by both humans and computers. This makes it ideal for 
+data exchange and sharing.
+• Data Validation-: XML Schema or DTDs can be used to enforce the structure 
+and data types of XML documents ensuring consistency and data quality.
+• Extensibility-: You can easily extend XML with new tags and 
+attributes as your data requirements evolve.
+
+3. Explain Low-Level Design
+
+Low-level design (LLD) focuses on the detailed implementation of a software system, focusing on how the software components will interact and how data will flow between them. It dives deeper into the specifics of:
+
+Data Structures: How data will be stored and organized within the system
+ (arrays, lists, databases, etc.)
+Algorithms: The specific logic and steps used to perform operations 
+(sorting searching, calculations, etc.)
+Interface Design: How different components communicate with each 
+(APIs methods, events, etc.)
+Error Handling: How the system will handle exceptions and unexpected situations.
+Security Considerations: Measures to protect data and ensure system integrity.
+
+4. Explain How to Identify a Class
+
+Here are some common approaches to identifying classes in object-oriented 
+programming:
+
+• Noun Identification: Analyze the textual requirements, user stories and 
+domain model. Look for nouns that represent potential objects in the system. 
+• Verb Identification: Analyze verbs and phrases related to actions or behaviors.
+ These can indicate methods or operations associated with classes.
+• Responsibility-Driven Design: Identify the responsibilities that the system needs to fulfill. Each responsibility might map to a specific class.
+• Collaboration Diagrams: Visualize interactions between components.
+ Objects that communicate or interact with each other often 
+represent separate classes.
+• Domain Knowledge: Draw on your understanding 
+of the real-world problem domain to identify
+important concepts and entities that need to be modeled as classes.Keep in
+mind that these are guidelines, and the process of identifying classes often 
+involves a combination of these approaches and iteration. It's an iterative 
+process, and you may need to refine your class design as you gain a deeper 
+understanding of the system's requirements.
+

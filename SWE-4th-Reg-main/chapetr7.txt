@@ -1,0 +1,47 @@
+true /false
+1. False
+2. False
+3. True
+4. False
+ short answers 
+
+1. What is a Requirement?
+
+A requirement is a statement that describes a desired feature or functionality of a software system. It's a detailed description of what the system must do how it should behave, and what constraints it must adhere to. Requirements can be:
+
+• Functional-; Describing what the system should do 
+(e.g. "The system must allow users to register an account.")
+• Non-functional-; Describing qualities of the system 
+(e.g. "The system must be available 24/7.")
+
+2.Why is Writing Use Cases Iterative?
+
+Writing use cases is iterative because it's 
+a process of refinement and understanding. 
+
+• Initial Discovery: You start with a high-level understanding of the system's purpose and begin outlining the major actions users will take.
+• Refinement: As you flesh out use cases you might discover new actors, goals or scenarios that require adjustments to existing use cases or the creation of new ones.
+• Collaboration: Stakeholders (users developers business analysts) provide feedback leading to further refinements and adjustments to ensure the use cases accurately reflect the system's intended functionality.
+
+3. Explain Actor Goal and Scenario
+
+• Actor: An actor is anything that interacts with the system. It could be a human user another system a hardware device, or even time (for scheduled events).
+• Goal: An actor has a specific goal they want to achieve through interacting with the system. For example a user's goal might be to "order a product online."
+• Scenario: A scenario describes a specific sequence of interactions between an actor and the system to achieve a goal. 
+It's a step-by-step description of how the actor will use the system to achieve their desired outcome.
+
+4. What are the Classifications of Objects Discovered via Textual Analysis?
+
+Textual analysis is used to extract information about system requirements from documents, user stories, or other textual sources. Here are some common classifications of objects discovered:
+
+• Nouns: These often represent potential entity objects (data elements, concepts) 
+in the system. For example, "customer," "product," "order," and "address."
+• Verbs: Verbs can indicate potential actions, events, or use cases. For example
+ "register," "search," "order," and "ship."
+• Adjectives and Adverbs: These can help refine and qualify 
+the properties of objects and actions. 
+For example, "active customer," "fast shipping," or "secure payment."
+
+• Textual analysis is only one method for object discovery; additional techniques like brainstorming and interviews are also valuable.
+• Not all nouns will necessarily represent entity objects; further analysis is needed to determine which ones are relevant to the system. 
+• It's a collaborative process; the classifications should be reviewed and validated by stakeholders to ensure they accurately reflect the system's requirements.
